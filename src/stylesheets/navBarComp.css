@@ -1,0 +1,9 @@
+.bg-color-nav {
+  background-color: rgba(15, 15, 15, 0.788);
+}
+
+.bg-color-nav div a {
+  color: #d45500;
+  font-weight: 800;
+  text-shadow: 3px 3px 8px #555;
+}

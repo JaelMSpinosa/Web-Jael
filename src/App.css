@@ -1,0 +1,20 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  font-size: 16px;
+}
+
+body {
+
+  /*
+    background-image: linear-gradient(rgb(255, 187, 132), #ffbe81, rgb(255, 228, 228), #fff8f8);
+*/
+  /*background-image: linear-gradient(rgb(27, 27, 26), rgb(39, 38, 38), #302e2e);*/
+  background-image: url(image/main_image3.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}

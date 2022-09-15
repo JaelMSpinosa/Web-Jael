@@ -1,0 +1,41 @@
+.cartelera {
+  margin: 10px;
+  width: 25%;
+}
+
+.contenedor-tarjeta {
+  display: flex;
+  justify-content: center;
+}
+
+.tarjeta {
+  display: flex;
+  flex-direction: column;
+  width: 65%;
+  background-image: radial-gradient(circle at 0 0, rgb(24, 17, 17), rgb(27, 21, 18), rgb(24, 14, 10));
+  margin: 20px;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 8px #333;
+}
+
+.titulo {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 1rem;
+  margin: 10px;
+  color: #d45500;
+  border-bottom: 2px solid rgb(71, 71, 71);
+  text-transform: uppercase;
+  text-decoration: underline overline;
+  text-shadow: 3px 3px 8px #555;
+}
+
+.synopsis {
+  width: 60%;
+}
+
+.info {
+  color: white;
+  display: flex;
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "lord of ring 1",
+        "imagen": "image/cartelera1.jpg",
+        "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, similique facere? Est vel maiores atque, incidunt molestiae eos odio unde cumque nesciunt animi, quidem culpa deserunt nulla debitis impedit laborum?",
+        "duracion": "2:30",
+        "actores": [
+            {}
+        ],
+        "clasificacion": ""
+    },
+    {
+        "titulo": "lord of ring 2",
+        "imagen": "image/cartelera2.jpg",
+        "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, similique facere? Est vel maiores atque, incidunt molestiae eos odio unde cumque nesciunt animi, quidem culpa deserunt nulla debitis impedit laborum?",
+        "duracion": "1:30",
+        "actores": [
+            {}
+        ],
+        "clasificacion": ""
+    },
+    {
+        "titulo": "lord of ring 3",
+        "imagen": "image/cartelera3.jpg",
+        "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, similique facere? Est vel maiores atque, incidunt molestiae eos odio unde cumque nesciunt animi, quidem culpa deserunt nulla debitis impedit laborum?",
+        "duracion": "2:10",
+        "actores": [
+            {}
+        ],
+        "clasificacion": ""
+    },
+    {
+        "titulo": "lord of ring 4",
+        "imagen": "image/cartelera4.jpg",
+        "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, similique facere? Est vel maiores atque, incidunt molestiae eos odio unde cumque nesciunt animi, quidem culpa deserunt nulla debitis impedit laborum?",
+        "duracion": "3:10",
+        "actores": [
+            {}
+        ],
+        "clasificacion": ""
+    },
+    {
+        "titulo": "lord of ring 5",
+        "imagen": "image/cartelera5.jpg",
+        "synopsis": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim, similique facere? Est vel maiores atque, incidunt molestiae eos odio unde cumque nesciunt animi, quidem culpa deserunt nulla debitis impedit laborum?",
+        "duracion": "3:00",
+        "actores": [
+            {}
+        ],
+        "clasificacion": ""
+    }
+]
